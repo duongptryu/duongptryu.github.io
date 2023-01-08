@@ -20,6 +20,9 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
+      
+      - name: install hugo
+        run: snap install hugo --channel=extended
 
       - name: Build
         run: hugo --minify
