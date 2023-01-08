@@ -10,4 +10,4 @@ description: "this is meta description"
 type : "contact"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+If you would like to get in touch, you can reach me via email or by phone below. I am available to chat during regular business hours and am always happy to discuss potential projects or opportunities. If you prefer, you can also fill out the contact form on my website, and I will get back to you as soon as possible. Thank you for your interest!
